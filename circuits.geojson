@@ -1,0 +1,266 @@
+
+                    "type": "FeatureCollection",
+                    "features": [{
+                        "type": "Feature",
+                        "geometry": {
+                            "type": "Point",
+                            "coordinates": [
+                                144.968977,
+                                -37.847951
+                            ]
+                        },
+                        "properties": {
+                            "name": "Albert Park - Australian GP",
+                            "icon": "marker"
+
+                        }
+                    },
+                        {
+                            "type": "Feature",
+                            "geometry": {
+                                "type": "Point",
+                                "coordinates": [
+                                    101.731167,
+                                    2.761305
+                                ]
+                            },
+                            "properties": {
+                                "name": "Sepang Cuircut - Malaysian GP",
+                                "icon": "marker"
+
+                            }
+                        },
+                        {
+                            "type": "Feature",
+                            "geometry": {
+                                "type": "Point",
+                                "coordinates": [
+                                    121.218851,
+                                    31.338591
+                                ]
+                            },
+                            "properties": {
+                                "name": "Shanghai International Circuit 4 Entrance",
+                                "icon": "marker"
+
+                            }
+                        },
+                        {
+                            "type": "Feature",
+                            "geometry": {
+                                "type": "Point",
+                                "coordinates": [
+                                    50.5129,
+                                    26.0316
+                                ]
+                            },
+                            "properties": {
+                                "name": "Bahrain International Circuit",
+                                "icon": "marker"
+
+                            }
+                        },
+                        {
+                            "type": "Feature",
+                            "geometry": {
+                                "type": "Point",
+                                "coordinates": [
+                                    2.261111,
+                                    41.57
+                                ]
+                            },
+                            "properties": {
+                                "name": "Barcelona Circuit",
+                                "icon": "marker"
+
+                            }
+                        },
+                        {
+                            "type": "Feature",
+                            "geometry": {
+                                "type": "Point",
+                                "coordinates": [
+                                    7.421651,
+                                    43.733654
+                                ]
+                            },
+                            "properties": {
+                                "name": "Monaco Gran Prix",
+                                "icon": "marker"
+
+                            }
+                        },
+                        {
+                            "type": "Feature",
+                            "geometry": {
+                                "type": "Point",
+                                "coordinates": [
+                                    -73.526688,
+                                    45.503219
+                                ]
+                            },
+                            "properties": {
+                                "name": "F1 Gilles Villeneuve Circuit",
+                                "icon": "marker"
+
+                            }
+                        },
+                        {
+                            "type": "Feature",
+                            "geometry": {
+                                "type": "Point",
+                                "coordinates": [
+                                    -1.021839,
+                                    52.074036
+                                ]
+                            },
+                            "properties": {
+                                "name": "Silverstone Circuit",
+                                "icon": "marker"
+
+                            }
+                        },
+                        {
+                            "type": "Feature",
+                            "geometry": {
+                                "type": "Point",
+                                "coordinates": [
+                                    8.564508,
+                                    49.32801
+                                ]
+                            },
+                            "properties": {
+                                "name": "F1 Hockenheimring",
+                                "icon": "marker"
+
+                            }
+                        },
+                        {
+                            "type": "Feature",
+                            "geometry": {
+                                "type": "Point",
+                                "coordinates": [
+                                    6.94548,
+                                    50.333256
+                                ]
+                            },
+                            "properties": {
+                                "name": "Nürburgring",
+                                "icon": "marker"
+
+                            }
+                        },
+                        {
+                            "type": "Feature",
+                            "geometry": {
+                                "type": "Point",
+                                "coordinates": [
+                                    19.248276,
+                                    47.579731
+                                ]
+                            },
+                            "properties": {
+                                "name": "Hungaroring",
+                                "icon": "marker"
+
+                            }
+                        },
+                        {
+                            "type": "Feature",
+                            "geometry": {
+                                "type": "Point",
+                                "coordinates": [
+                                    5.97205,
+                                    50.436912
+                                ]
+                            },
+                            "properties": {
+                                "name": "Circuit de Spa-Francorchamps",
+                                "icon": "marker"
+
+                            }
+                        },
+                        {
+                            "type": "Feature",
+                            "geometry": {
+                                "type": "Point",
+                                "coordinates": [
+                                    9.286108,
+                                    45.61872
+                                ]
+                            },
+                            "properties": {
+                                "name": "Autodromo Nazionale Monza",
+                                "icon": "marker"
+
+                            }
+                        },
+                        {
+                            "type": "Feature",
+                            "geometry": {
+                                "type": "Point",
+                                "coordinates": [
+                                    103.863861,
+                                    1.291535
+                                ]
+                            },
+                            "properties": {
+                                "name": "Marina Bay Street Circuit",
+                                "icon": "marker"
+
+                            }
+                        },
+                        {
+                            "type": "Feature",
+                            "geometry": {
+                                "type": "Point",
+                                "coordinates": [
+                                    136.534397,
+                                    34.843808
+                                ]
+                            },
+                            "properties": {
+                                "name": "Suzuka Circuit",
+                                "icon": "marker"
+
+                            }
+                        },
+                        {
+                            "type": "Feature",
+                            "geometry": {
+                                "type": "Point",
+                                "coordinates": [
+                                    126.415819,
+                                    34.735977
+                                ]
+                            },
+                            "properties": {
+                                "name": "Korean International Circuit",
+                                "icon": "marker"
+
+                            }
+                        },
+
+                        {
+                            "type": "Feature",
+                            "geometry": {
+                                "type": "Point",
+                                "coordinates": [
+                                    54.605484,
+                                    24.47176
+                                ]
+                            },
+                            "properties": {
+                                "name": "Yas Marina Circuit",
+                                "icon": "marker",
+                                "description": "Yas Marina Circuit"
+                            }
+                        }
+                    ]//closing the feature collection
+                }
+            },
+            "layout": {
+                "icon-image": "{icon}-15",//custom maki icons
+                "icon-allow-overlap": true
+            }
+        }
