@@ -1,4 +1,8 @@
-
+"id": "areas",
+            "type": "symbol",
+            "source": {
+                "type": "geojson",
+                "data": {
                     "type": "FeatureCollection",
                     "features": [{
                         "type": "Feature",
